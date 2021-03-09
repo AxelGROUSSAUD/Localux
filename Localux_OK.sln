@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localux_OK", "Localux_OK\Localux_OK.csproj", "{0000AB25-56F9-4ADD-BB54-57068CAB067B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0000AB25-56F9-4ADD-BB54-57068CAB067B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0000AB25-56F9-4ADD-BB54-57068CAB067B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0000AB25-56F9-4ADD-BB54-57068CAB067B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0000AB25-56F9-4ADD-BB54-57068CAB067B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390534C7-7F21-4985-BC9A-9A2BB6CED4EF}
+	EndGlobalSection
+EndGlobal
