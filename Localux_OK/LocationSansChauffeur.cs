@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class LocationSansChauffeur : Location
+    public class LocationSansChauffeur : Location
     {
         private double _nbKmDepart;
         private double _nbKmRetour;
@@ -27,6 +27,11 @@ namespace Localux_OK
 
             }
             return resultat;
+        }
+
+        public void SetNbKmRetour(double unNbKmRetour)
+        {
+            _nbKmRetour = unNbKmRetour;
         }
     }
 }

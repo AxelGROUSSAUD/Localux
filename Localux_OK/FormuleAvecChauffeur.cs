@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class FormuleAvecChauffeur : Formule
+    public class FormuleAvecChauffeur : Formule
     {
         private string _lieu;
         private double _tarif;
