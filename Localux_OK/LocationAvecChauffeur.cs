@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class LocationAvecChauffeur : Location
+    public class LocationAvecChauffeur : Location
     {
         private FormuleAvecChauffeur _laFormuleAvecChauffeur;
 

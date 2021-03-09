@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class FormuleSansChauffeur : Formule
+    public class FormuleSansChauffeur : Formule
     {
         private int _duree;
         private double _nbKmInclus;

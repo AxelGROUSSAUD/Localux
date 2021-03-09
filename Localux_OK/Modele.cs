@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class Modele
+    public class Modele
     {
         private int _id;
         private string _libelle;

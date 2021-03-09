@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Localux_OK
 {
-    class Vehicule
+    public class Vehicule
     {
         private string _immatriculation;
         private DateTime _dateAchat;
